@@ -1,7 +1,6 @@
 // Demo in OPPs
 
-// Basic Class structure 
-// Object decleration in main and using new keyword;
+// Types of Constructors in C++
 
 #include<bits/stdc++.h>
 using namespace std;
