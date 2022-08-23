@@ -1,3 +1,3 @@
 # OOPs-_CPP
-This is a C++ based repo for the Object Oriented Programming concepts with code
+It's a C++ based repo for the Object Oriented Programming concepts with code
 Anyone can use it for the preperation of OOPs for there interview.
