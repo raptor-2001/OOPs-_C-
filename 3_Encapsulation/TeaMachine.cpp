@@ -12,11 +12,13 @@ class teaMachine
   // accessed by anyone.
 
 private:
+  // Hiding the data of all the machine.
   int water = 5,
       milk = 4,
       sugar;
 
 public:
+  //  setting the hidded data using the machine.
   void addSugar()
   {
     cout << "Enter the number of sugar cubes you like: ";
@@ -27,6 +29,7 @@ public:
     cout << "\nPlease wait for some few minutes...";
   }
 
+  // getting the hidded data from the machine.
   int getSugar()
   {
     return this->sugar;
